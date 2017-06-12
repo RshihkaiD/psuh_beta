@@ -1,7 +1,7 @@
 {
   "name": "PUSH_BETA",
   "short_name": "PUSH_BETA_EXAMPLE",
-  "start_url": "/psuh_beta/",
+  "start_url": "./psuh_beta/",
   "display": "standalone",
   "gcm_sender_id": "482941778795",
   "DO_NOT_CHANGE_GCM_SENDER_ID": "Do not change the GCM Sender ID"
